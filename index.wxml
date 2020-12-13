@@ -1,0 +1,7 @@
+<!--tabBar/gongneng/index.wxml-->
+<view>
+<button bindtap="kuaidi">快递查询</button>
+<button bindtap="weekly">天气查询</button>
+
+<!--<image src="/images/功能.jpg" mode="aspectFit"></image>-->
+</view>

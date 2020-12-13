@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/weekly/weekly",
+    "pages/kuaidi/kuaidi"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
